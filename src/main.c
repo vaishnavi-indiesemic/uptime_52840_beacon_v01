@@ -50,6 +50,10 @@ uint8_t battery_percentage[3] = {
     0x00, // Placeholder for the percentage value (will be updated later)
 };
 
+#define BOOT_COUNT_ID 3
+uint8_t boot_count = 0;
+uint8_t mfg_data[3] = {0xFF, 0xFF, 0x00}; // 0xFFFF company ID (test), 1 byte for boot count
+
 #define BLE_PART1_ELEMENTS 83
 #define BLE_PART2_ELEMENTS 83
 #define BLE_PART3_ELEMENTS 34
@@ -96,6 +100,7 @@ static inline uint32_t get_timestamp_data_element(int idx) {
 static const struct bt_data ad[] = {
     BT_DATA_BYTES(BT_DATA_FLAGS, BT_LE_AD_GENERAL | BT_LE_AD_NO_BREDR),
     BT_DATA(BT_DATA_NAME_COMPLETE, CONFIG_BT_DEVICE_NAME, sizeof(CONFIG_BT_DEVICE_NAME) - 1),
+    BT_DATA(BT_DATA_MANUFACTURER_DATA, mfg_data, sizeof(mfg_data)),
     BT_DATA_BYTES(BT_DATA_UUID128_ALL, ISC_BEACON_UUID),
     // BT_DATA(BT_DATA_TX_POWER, &TRANSMIT_POWER_dBm, 1),
     // BT_DATA(BT_DATA_SVC_DATA16, battery_percentage, sizeof(battery_percentage)),
@@ -526,6 +531,24 @@ void read_flsh_data(void)
         // uptime_m_priv = 16777213 ;
     }
     k_msleep(10);
+
+    rc = nvs_read(&fs, BOOT_COUNT_ID, &boot_count, sizeof(boot_count));
+    if (rc > 0) {
+        printk("data read boot_count = %d\n", boot_count);
+    } else {
+        printk("no data found boot_count, initializing to 0\n");
+        boot_count = 0;
+    }
+    // boot_count++;
+    // rc = nvs_write(&fs, BOOT_COUNT_ID, &boot_count, sizeof(boot_count));
+    // if (rc < 0) {
+    //     printk("error in store boot_count rc=%d\n", rc);
+    // } else {
+    //     printk("boot_count store success: %d\n", boot_count);
+    // }
+    // mfg_data[2] = boot_count;
+    
+    k_msleep(10);
 }
 void print_upcount_bufer(void)
 {
@@ -703,6 +726,15 @@ void main(void)
     inin_flash();
 
     read_flsh_data(); // data read from flash
+
+        boot_count++;
+    rc = nvs_write(&fs, BOOT_COUNT_ID, &boot_count, sizeof(boot_count));
+    if (rc < 0) {
+        printk("error in store boot_count rc=%d\n", rc);
+    } else {
+        printk("boot_count store success: %d\n", boot_count);
+    }
+    mfg_data[2] = boot_count;
 
     print_upcount_bufer(); // prrint a buffer
 

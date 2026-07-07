@@ -1,0 +1,18 @@
+{
+  "toolchainPath": "c:\\ncs\\toolchains\\b620d30767",
+  "sdkPath": "c:\\ncs\\v2.9.2",
+  "board": "isc_52820/nrf52820",
+  "boardDir": "d:\\cust\\sva_uptime_in_flash_10_uart_off\\uptime_52840_beacon_v01-main\\boards\\isc\\isc_52820",
+  "boardDirs": [
+    "d:\\cust\\sva_uptime_in_flash_10_uart_off\\uptime_52840_beacon_v01-main\\boards\\isc\\isc_52820"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": [],
+  "boardRoot": "d:\\cust\\sva_uptime_in_flash_10_uart_off\\uptime_52840_beacon_v01-main"
+}

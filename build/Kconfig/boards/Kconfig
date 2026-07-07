@@ -1,0 +1,2 @@
+# Load Zephyr board Kconfig descriptions.
+osource "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/boards/isc/isc_52820/Kconfig"
