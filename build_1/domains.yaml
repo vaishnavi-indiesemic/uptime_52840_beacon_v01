@@ -1,0 +1,7 @@
+default: uptime_52840_beacon_v01-main
+build_dir: D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1
+domains:
+  - name: uptime_52840_beacon_v01-main
+    build_dir: D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/uptime_52840_beacon_v01-main
+flash_order:
+  - uptime_52840_beacon_v01-main

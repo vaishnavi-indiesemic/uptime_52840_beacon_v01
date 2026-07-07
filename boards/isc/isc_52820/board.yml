@@ -1,0 +1,5 @@
+board:
+  name: isc_52820
+  vendor: isc
+  socs:
+    - name: nrf52820

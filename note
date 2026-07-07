@@ -1,0 +1,37 @@
+SDK2.9.0
+
+(save_uptime_in_flash_1)
+in this code creat a butorn press intrup in wen buton ispress is give a intrup and store in a flash but is not test proparly
+
+(save_uptime_in_fkash_2)
+in this code now ad a extendede adv and polis a data read from flash and advertige data niyest time fist logic and this all thing working find 
+is test with 10 data storage and adv 
+this testing done in second insted of a minit
+also add a now new data aftar restart is add a old data
+also add a remove duplict data store and process for defind duplicat data make a micro
+
+(save_uptime_in_flash_3)
+in thsis code use a micro for a buffer sige and is test with a 100 data and is working find and comment a some printk 
+
+(save_uptime_in_flash_4)
+in this code now i am send a data in big envidyam for mate so now on ble side is show me a parfect li in litel envidyan format
+now add a timer for a every 5 minit is store a uptime in a flash so uptime_m_priv now read this valu
+
+this code is give to testing to vaishnavi
+
+(save_uptime_in_flash_5)
+in this code wen a device detect a multipel buton press at a time in one minit so is not store a data is only advertige a data
+
+(sva_uptime_in_flash_8_led)
+in this code add a led indicator on a data is update and advertige
+add a long press funtimnalyty wen buton is press for a 5 secon is restart a device
+testing is panding
+    
+(sva_uptime_in_flash_9_led)
+this code give to cutemer 
+in this cutemer code file uart is on so power cuntim tion is hiyar 
+after uoart log off is power cuntim tion is low
+
+(sasva_uptime_in_flash_10_uart_off)
+in this code uart is off so power cunsumtion is dowon
+this code is send to clint (15-Apr)

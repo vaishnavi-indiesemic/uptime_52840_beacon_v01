@@ -1,0 +1,115 @@
+//data bifor variabel change
+00> *** Booting nRF Connect SDK v2.9.0-7787b2649840 ***
+00> *** Using Zephyr OS v3.7.99-1f8f3dc29142 ***
+00> [00:00:00.009,918] <inf> fs_nvs: 3 Sectors of 4096 bytes
+00> [00:00:00.009,918] <inf> fs_nvs: alloc wra: 0, fe8
+00> [00:00:00.009,948] <inf> fs_nvs: data wra: 0, 0
+00> flash init success
+00> no data found flsh_up_counter_id
+00> no data found uptime_m_priv
+00> flsh_up_counter_id=0
+00> bt_ctlr_set_public_addr err=0
+00> mac id=d9 25 52 f7 7e 5b
+00> [00:00:00.530,639] <inf> bt_sdc_hci_driver: SoftDevice Controller build revision: 
+00>                                             2d 79 a1 c8 6a 40 b7 3c  f6 74 f9 0b 22 d3 c4 80 |-y..j@.< .t.."...
+00>                                             74 72 82 ba                                      |tr..             
+00> [00:00:00.533,813] <inf> bt_hci_core: HW Platform: Nordic Semiconductor (0x0002)
+00> [00:00:00.533,843] <inf> bt_hci_core: HW Variant: nRF52x (0x0002)
+00> [00:00:00.533,874] <inf> bt_hci_core: Firmware: Standard Bluetooth controller (0x00) VersionButton Pressed!
+00> 
+00> Uptime_ms: 65223027
+00> Uptime_s: 65223
+00> uptime_m_priv=0
+00> Uptime_m: 1087, 43f
+00> upcount_bufer[0]=0
+00> uptime_m - upcount_bufer[temp]=1087
+00> upcount_bufer[0-1]=0
+00> uptime_m - upcount_bufer[temp]=1087
+00> 0 flsh_up_counter_id=0 temp=0
+00> 1 flsh_up_counter_id=1 header pointer=0
+00> ble data = 43f 
+00> Extended adv data set
+00> Extended advertising started
+00> extendede adv stoped
+00> up_time_store_timer_handler called
+00> Uptime_ms: 65300535
+00> Uptime_s: 65300
+00> Uptime_m: 1088
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1088
+00> up_time_store_timer_handler called
+00> Uptime_ms: 65600535
+00> Uptime_s: 64
+00> Uptime_m: 1
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1
+
+
+//new log from after variabel change
+[00:00:00.530,639] <inf> bt_sdc_hci_driver: SoftDevice Controller build revision: 
+00>                                             2d 79 a1 c8 6a 40 b7 3c  f6 74 f9 0b 22 d3 c4 80 |-y..j@.< .t.."...
+00>                                             74 72 82 ba                                      |tr..             
+00> [00:00:00.533,813] <inf> bt_hci_core: HW Platform: Nordic Semiconductor (0x0002)
+00> [00:00:00.533,843] <inf> bt_hci_core: HW Variant: nRF52x (0x0002)
+00> [00:00:00.533,905] <inf> bt_hci_core: Firmware: Standard Bluetooth controller (0x00) Versionup_time_store_timer_handler called
+00> Uptime_ms: 65300535
+00> Uptime_s: 0
+00> Uptime_m: 1088
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1088
+00> up_time_store_timer_handler called
+00> Uptime_ms: 65600535
+00> Uptime_s: 0
+00> Uptime_m: 1093
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1093
+00> Button Pressed!
+00> 
+00> Uptime_ms: 65636175
+00> Uptime_s: 0
+00> uptime_m_priv=0
+00> Uptime_m: 1093, 445
+00> upcount_bufer[0]=0
+00> uptime_m - upcount_bufer[temp]=1093
+00> upcount_bufer[0-1]=0
+00> uptime_m - upcount_bufer[temp]=1093
+00> 0 flsh_up_counter_id=0 temp=0
+00> 1 flsh_up_counter_id=1 header pointer=0
+00> ble data = 445 
+00> Extended adv data set
+00> Extended advertising started
+00> extendede adv stoped
+00> up_time_store_timer_handler called
+00> Uptime_ms: 65900535
+00> Uptime_s: 0
+00> Uptime_m: 1098
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1098
+00> Button Pressed! from timer
+00> 
+00> Uptime_ms: 65905535
+00> Uptime_s: 0
+00> uptime_m_priv=0
+00> Uptime_m: 1098, 44a
+00> upcount_bufer[1]=0
+00> uptime_m - upcount_bufer[temp]=1098
+00> upcount_bufer[1-1]=1093
+00> uptime_m - upcount_bufer[temp]=5
+00> 0 flsh_up_counter_id=1 temp=1
+00> 1 flsh_up_counter_id=2 header pointer=1
+00> ble data = 44a 445 
+00> Extended adv data set
+00> Extended advertising started
+00> extendede adv stoped
+00> up_time_store_timer_handler called
+00> Uptime_ms: 66200535
+00> Uptime_s: 0
+00> Uptime_m: 1103
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1103
+00> up_time_store_timer_handler called
+00> Uptime_ms: 66500535
+00> Uptime_s: 0
+00> Uptime_m: 1108
+00> uptime store success fulle
+00> data read uptime_m_priv_temp =1108

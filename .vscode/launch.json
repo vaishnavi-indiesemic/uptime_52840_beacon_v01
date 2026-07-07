@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "nrf-connect",
+			"request": "launch",
+			"name": "Launch sva_uptime_in_flash_9_led/build",
+			"config": "${workspaceFolder}/build",
+			"runToEntryPoint": "main"
+		},
+		{
+			"type": "nrf-connect",
+			"request": "launch",
+			"name": "Launch sva_uptime_in_flash_9_led/build/sva_uptime_in_flash_9_led",
+			"config": "${workspaceFolder}/build/sva_uptime_in_flash_9_led",
+			"runToEntryPoint": "main"
+		}
+	]
+}

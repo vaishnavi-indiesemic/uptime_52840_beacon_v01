@@ -1,0 +1,2 @@
+config BOARD_ISC_52820
+	select SOC_NRF52820_QDAA

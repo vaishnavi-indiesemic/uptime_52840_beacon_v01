@@ -1,0 +1,13 @@
+# Target labels
+ uptime_52840_beacon_v01-main
+# Source files and their labels
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/uptime_52840_beacon_v01-main
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/uptime_52840_beacon_v01-main.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/uptime_52840_beacon_v01-main-complete.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-build.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-configure.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-download.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-install.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-mkdir.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-patch.rule
+D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-update.rule
