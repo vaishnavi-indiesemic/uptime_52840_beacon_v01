@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/uptime_52840_beacon_v01-main"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/uptime_52840_beacon_v01-main.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/uptime_52840_beacon_v01-main-complete.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-build.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-configure.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-download.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-install.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-mkdir.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-patch.rule"
+		},
+		{
+			"file" : "D:/cust/sva_uptime_in_flash_10_uart_off/uptime_52840_beacon_v01-main/build_1/_sysbuild/sysbuild/images/uptime_52840_beacon_v01-main-prefix/src/uptime_52840_beacon_v01-main-stamp/uptime_52840_beacon_v01-main-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uptime_52840_beacon_v01-main"
+		],
+		"name" : "uptime_52840_beacon_v01-main"
+	}
+}

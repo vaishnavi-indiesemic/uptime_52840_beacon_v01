@@ -1,0 +1,2 @@
+osource "D:/cust/sva_uptime_in_flash_10_uart_off/sva_uptime_in_flash_10_uart_off/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.9.2/nrf/boards/shields/*/Kconfig.defconfig"

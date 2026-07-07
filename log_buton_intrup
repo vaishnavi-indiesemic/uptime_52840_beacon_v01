@@ -1,0 +1,1541 @@
+dheeraj@dheeraj-HP-ZBook-Firefly-14-inch-G8-Mobile-Workstation-PC:~$ minicom -D /dev/ttyUSB1 -b 115200 -C test_log_1_1$(date+%F_%H-%M-%S).log
+date+%F_%H-%M-%S: command not found
+
+
+Welcome to minicom 2.8
+
+OPTIONS: I18n 
+Port /dev/ttyUSB1, 15:32:45
+
+Press CTRL-A Z for help on special keys
+
+Button Pressed!
+Uptime_ms: 21315
+Uptime_s: 21
+uptime_m_priv=0
+Uptime_m: 0, 0
+upcount_bufer[1]=0
+uptime_m - upcount_bufer[temp]=0
+upcount_bufer[1-1]=0
+uptime_m - upcount_bufer[temp]=0
+same uptime_m found no need to store 
+ retunr
+Extended adv data set
+Extended advertising started
+extendede adv stoped
+up_time_store_timer_handler called
+Uptime_ms: 300565                                                               
+Uptime_s: 300                                                                   
+Uptime_m: 5                                                                     
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =5                                                 
+up_time_store_timer_handler called                                              
+Uptime_ms: 600565                                                               
+Uptime_s: 600                                                                   
+Uptime_m: 10                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =10                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 900565                                                               
+Uptime_s: 900                                                                   
+Uptime_m: 15                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =15                                                
+Button Pressed!                                                                 
+Uptime_ms: 1028275                                                              
+Uptime_s: 1028                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 17, 11                                                                
+upcount_bufer[1]=0                                                              
+uptime_m - upcount_bufer[temp]=17                                               
+upcount_bufer[1-1]=0                                                            
+uptime_m - upcount_bufer[temp]=17                                               
+0 flsh_up_counter_id=1 temp=1                                                   
+1 flsh_up_counter_id=2 header pointer=1                                         
+ble data = 11 0                                                                 
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+up_time_store_timer_handler called                                              
+Uptime_ms: 1200565                                                              
+Uptime_s: 1200                                                                  
+Uptime_m: 20                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =20                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 1500565                                                              
+Uptime_s: 1500                                                                  
+Uptime_m: 25                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =25                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 1800565                                                              
+Uptime_s: 1800                                                                  
+Uptime_m: 30                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =30                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 2100565                                                              
+Uptime_s: 2100                                                                  
+Uptime_m: 35                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =35                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 2400565                                                              
+Uptime_s: 2400                                                                  
+Uptime_m: 40                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =40                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 2700565                                                              
+Uptime_s: 2700                                                                  
+Uptime_m: 45                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =45                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 3000565                                                              
+Uptime_s: 3000                                                                  
+Uptime_m: 50                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =50                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 3300565                                                              
+Uptime_s: 3300                                                                  
+Uptime_m: 55                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =55                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 3600565                                                              
+Uptime_s: 3600                                                                  
+Uptime_m: 60                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =60                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 3900565                                                              
+Uptime_s: 3900                                                                  
+Uptime_m: 65                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =65                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 4200565                                                              
+Uptime_s: 4200                                                                  
+Uptime_m: 70                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =70                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 4500565                                                              
+Uptime_s: 4500                                                                  
+Uptime_m: 75                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =75                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 4800565                                                              
+Uptime_s: 4800                                                                  
+Uptime_m: 80                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =80                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 5100565                                                              
+Uptime_s: 5100                                                                  
+Uptime_m: 85                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =85                                                
+Button Pressed!                                                                 
+Uptime_ms: 5109704                                                              
+Uptime_s: 5109                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 85, 55                                                                
+upcount_bufer[2]=0                                                              
+uptime_m - upcount_bufer[temp]=85                                               
+upcount_bufer[2-1]=17                                                           
+uptime_m - upcount_bufer[temp]=68                                               
+0 flsh_up_counter_id=2 temp=2                                                   
+1 flsh_up_counter_id=3 header pointer=2                                         
+ble data = 55 11 0                                                              
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+Button Pressed!                                                                 
+Uptime_ms: 5166078                                                              
+Uptime_s: 5166                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 86, 56                                                                
+upcount_bufer[3]=0                                                              
+uptime_m - upcount_bufer[temp]=86                                               
+upcount_bufer[3-1]=85                                                           
+uptime_m - upcount_bufer[temp]=1                                                
+0 flsh_up_counter_id=3 temp=3                                                   
+1 flsh_up_counter_id=4 header pointer=3                                         
+ble data = 56 55 11 0                                                           
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+Button Pressed!                                                                 
+Uptime_ms: 5171444                                                              
+Uptime_s: 5171                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 86, 56                                                                
+upcount_bufer[4]=0                                                              
+uptime_m - upcount_bufer[temp]=86                                               
+upcount_bufer[4-1]=86                                                           
+uptime_m - upcount_bufer[temp]=0                                                
+same uptime_m found no need to store                                            
+ retunr                                                                         
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+Button Pressed!                                                                 
+Uptime_ms: 5194794                                                              
+Uptime_s: 5194                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 86, 56                                                                
+upcount_bufer[4]=0                                                              
+uptime_m - upcount_bufer[temp]=86                                               
+upcount_bufer[4-1]=86                                                           
+uptime_m - upcount_bufer[temp]=0                                                
+same uptime_m found no need to store                                            
+ retunr                                                                         
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+Button Pressed!                                                                 
+Uptime_ms: 5199990                                                              
+Uptime_s: 5199                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 86, 56                                                                
+upcount_bufer[4]=0                                                              
+uptime_m - upcount_bufer[temp]=86                                               
+upcount_bufer[4-1]=86                                                           
+uptime_m - upcount_bufer[temp]=0                                                
+same uptime_m found no need to store                                            
+ retunr                                                                         
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+Button Pressed!                                                                 
+Uptime_ms: 5268352                                                              
+Uptime_s: 5268                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 87, 57                                                                
+upcount_bufer[4]=0                                                              
+uptime_m - upcount_bufer[temp]=87                                               
+upcount_bufer[4-1]=86                                                           
+uptime_m - upcount_bufer[temp]=1                                                
+0 flsh_up_counter_id=4 temp=4                                                   
+1 flsh_up_counter_id=5 header pointer=4                                         
+ble data = 57 56 55 11 0                                                        
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+up_time_store_timer_handler called                                              
+Uptime_ms: 5400565                                                              
+Uptime_s: 5400                                                                  
+Uptime_m: 90                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =90                                                
+Button Pressed!                                                                 
+Uptime_ms: 5442465                                                              
+Uptime_s: 5442                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 90, 5a                                                                
+upcount_bufer[5]=0                                                              
+uptime_m - upcount_bufer[temp]=90                                               
+upcount_bufer[5-1]=87                                                           
+uptime_m - upcount_bufer[temp]=3                                                
+0 flsh_up_counter_id=5 temp=5                                                   
+1 flsh_up_counter_id=6 header pointer=5                                         
+ble data = 5a 57 56 55 11 0                                                     
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+up_time_store_timer_handler called                                              
+Uptime_ms: 5700565                                                              
+Uptime_s: 5700                                                                  
+Uptime_m: 95                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =95                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 6000565                                                              
+Uptime_s: 6000                                                                  
+Uptime_m: 100                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =100                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 6300565                                                              
+Uptime_s: 6300                                                                  
+Uptime_m: 105                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =105                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 6600565                                                              
+Uptime_s: 6600                                                                  
+Uptime_m: 110                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =110                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 6900565                                                              
+Uptime_s: 6900                                                                  
+Uptime_m: 115                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =115                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 7200565                                                              
+Uptime_s: 7200                                                                  
+Uptime_m: 120                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =120                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 7500565                                                              
+Uptime_s: 7500                                                                  
+Uptime_m: 125                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =125                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 7800565                                                              
+Uptime_s: 7800                                                                  
+Uptime_m: 130                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =130                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 8100565                                                              
+Uptime_s: 8100                                                                  
+Uptime_m: 135                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =135                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 8400565                                                              
+Uptime_s: 8400                                                                  
+Uptime_m: 140                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =140                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 8700565                                                              
+Uptime_s: 8700                                                                  
+Uptime_m: 145                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =145                                               
+Button Pressed!                                                                 
+Uptime_ms: 8716096                                                              
+Uptime_s: 8716                                                                  
+uptime_m_priv=0                                                                 
+Uptime_m: 145, 91                                                               
+upcount_bufer[6]=0                                                              
+uptime_m - upcount_bufer[temp]=145                                              
+upcount_bufer[6-1]=90                                                           
+uptime_m - upcount_bufer[temp]=55                                               
+0 flsh_up_counter_id=6 temp=6                                                   
+1 flsh_up_counter_id=7 header pointer=6                                         
+ble data = 91 5a 57 56 55 11 0                                                  
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+up_time_store_timer_handler called                                              
+Uptime_ms: 9000565                                                              
+Uptime_s: 9000                                                                  
+Uptime_m: 150                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =150                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 9300565                                                              
+Uptime_s: 9300                                                                  
+Uptime_m: 155                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =155                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 9600565                                                              
+Uptime_s: 9600                                                                  
+Uptime_m: 160                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =160                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 9900565                                                              
+Uptime_s: 9900                                                                  
+Uptime_m: 165                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =165                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 10200565                                                             
+Uptime_s: 10200                                                                 
+Uptime_m: 170                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =170                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 10500565                                                             
+Uptime_s: 10500                                                                 
+Uptime_m: 175                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =175                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 10800565                                                             
+Uptime_s: 10800                                                                 
+Uptime_m: 180                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =180                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 11100565                                                             
+Uptime_s: 11100                                                                 
+Uptime_m: 185                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =185                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 11400565                                                             
+Uptime_s: 11400                                                                 
+Uptime_m: 190                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =190                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 11700565                                                             
+Uptime_s: 11700                                                                 
+Uptime_m: 195                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =195                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 12000565                                                             
+Uptime_s: 12000                                                                 
+Uptime_m: 200                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =200                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 12300565                                                             
+Uptime_s: 12300                                                                 
+Uptime_m: 205                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =205                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 12600565                                                             
+Uptime_s: 12600                                                                 
+Uptime_m: 210                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =210                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 12900565                                                             
+Uptime_s: 12900                                                                 
+Uptime_m: 215                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =215                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 13200565                                                             
+Uptime_s: 13200                                                                 
+Uptime_m: 220                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =220                                               
+Button Pressed!                                                                 
+Uptime_ms: 13272566                                                             
+Uptime_s: 13272                                                                 
+uptime_m_priv=0                                                                 
+Uptime_m: 221, dd                                                               
+upcount_bufer[7]=0                                                              
+uptime_m - upcount_bufer[temp]=221                                              
+upcount_bufer[7-1]=145                                                          
+uptime_m - upcount_bufer[temp]=76                                               
+0 flsh_up_counter_id=7 temp=7                                                   
+1 flsh_up_counter_id=8 header pointer=7                                         
+ble data = dd 91 5a 57 56 55 11 0                                               
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+up_time_store_timer_handler called                                              
+Uptime_ms: 13500565                                                             
+Uptime_s: 13500                                                                 
+Uptime_m: 225                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =225                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 13800565                                                             
+Uptime_s: 13800                                                                 
+Uptime_m: 230                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =230                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 14100565                                                             
+Uptime_s: 14100                                                                 
+Uptime_m: 235                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =235                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 14400565                                                             
+Uptime_s: 14400                                                                 
+Uptime_m: 240                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =240                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 14700565                                                             
+Uptime_s: 14700                                                                 
+Uptime_m: 245                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =245                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 15000565                                                             
+Uptime_s: 15000                                                                 
+Uptime_m: 250                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =250                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 15300565                                                             
+Uptime_s: 15300                                                                 
+Uptime_m: 255                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =255                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 15600565                                                             
+Uptime_s: 15600                                                                 
+Uptime_m: 260                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =260                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 15900565                                                             
+Uptime_s: 15900                                                                 
+Uptime_m: 265                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =265                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 16200565                                                             
+Uptime_s: 16200                                                                 
+Uptime_m: 270                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =270                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 16500565                                                             
+Uptime_s: 16500                                                                 
+Uptime_m: 275                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =275                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 16800565                                                             
+Uptime_s: 16800                                                                 
+Uptime_m: 280                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =280                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 17100565                                                             
+Uptime_s: 17100                                                                 
+Uptime_m: 285                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =285                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 17400565                                                             
+Uptime_s: 17400                                                                 
+Uptime_m: 290                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =290                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 17700565                                                             
+Uptime_s: 17700                                                                 
+Uptime_m: 295                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =295                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 18000565                                                             
+Uptime_s: 18000                                                                 
+Uptime_m: 300                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =300                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 18300565                                                             
+Uptime_s: 18300                                                                 
+Uptime_m: 305                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =305                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 18600565                                                             
+Uptime_s: 18600                                                                 
+Uptime_m: 310                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =310                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 18900565                                                             
+Uptime_s: 18900                                                                 
+Uptime_m: 315                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =315                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 19200565                                                             
+Uptime_s: 19200                                                                 
+Uptime_m: 320                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =320                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 19500565                                                             
+Uptime_s: 19500                                                                 
+Uptime_m: 325                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =325                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 19800565                                                             
+Uptime_s: 19800                                                                 
+Uptime_m: 330                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =330                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 20100565                                                             
+Uptime_s: 20100                                                                 
+Uptime_m: 335                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =335                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 20400565                                                             
+Uptime_s: 20400                                                                 
+Uptime_m: 340                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =340                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 20700565                                                             
+Uptime_s: 20700                                                                 
+Uptime_m: 345                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =345                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 21000565                                                             
+Uptime_s: 21000                                                                 
+Uptime_m: 350                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =350                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 21300565                                                             
+Uptime_s: 21300                                                                 
+Uptime_m: 355                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =355                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 21600565                                                             
+Uptime_s: 21600                                                                 
+Uptime_m: 360                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =360                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 21900565                                                             
+Uptime_s: 21900                                                                 
+Uptime_m: 365                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =365                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 22200565                                                             
+Uptime_s: 22200                                                                 
+Uptime_m: 370                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =370                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 22500565                                                             
+Uptime_s: 22500                                                                 
+Uptime_m: 375                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =375                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 22800565                                                             
+Uptime_s: 22800                                                                 
+Uptime_m: 380                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =380                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 23100565                                                             
+Uptime_s: 23100                                                                 
+Uptime_m: 385                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =385                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 23400565                                                             
+Uptime_s: 23400                                                                 
+Uptime_m: 390                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =390                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 23700565                                                             
+Uptime_s: 23700                                                                 
+Uptime_m: 395                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =395                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 24000565                                                             
+Uptime_s: 24000                                                                 
+Uptime_m: 400                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =400                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 24300565                                                             
+Uptime_s: 24300                                                                 
+Uptime_m: 405                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =405                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 24600565                                                             
+Uptime_s: 24600                                                                 
+Uptime_m: 410                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =410                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 24900565                                                             
+Uptime_s: 24900                                                                 
+Uptime_m: 415                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =415                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 25200565                                                             
+Uptime_s: 25200                                                                 
+Uptime_m: 420                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =420                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 25500565                                                             
+Uptime_s: 25500                                                                 
+Uptime_m: 425                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =425                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 25800565                                                             
+Uptime_s: 25800                                                                 
+Uptime_m: 430                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =430                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 26100565                                                             
+Uptime_s: 26100                                                                 
+Uptime_m: 435                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =435                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 26400565                                                             
+Uptime_s: 26400                                                                 
+Uptime_m: 440                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =440                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 26700565                                                             
+Uptime_s: 26700                                                                 
+Uptime_m: 445                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =445                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 27000565                                                             
+Uptime_s: 27000                                                                 
+Uptime_m: 450                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =450                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 27300565                                                             
+Uptime_s: 27300                                                                 
+Uptime_m: 455                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =455                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 27600565                                                             
+Uptime_s: 27600                                                                 
+Uptime_m: 460                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =460                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 27900565                                                             
+Uptime_s: 27900                                                                 
+Uptime_m: 465                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =465                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 28200565                                                             
+Uptime_s: 28200                                                                 
+Uptime_m: 470                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =470                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 28500565                                                             
+Uptime_s: 28500                                                                 
+Uptime_m: 475                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =475                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 28800565                                                             
+Uptime_s: 28800                                                                 
+Uptime_m: 480                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =480                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 29100565                                                             
+Uptime_s: 29100                                                                 
+Uptime_m: 485                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =485                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 29400565                                                             
+Uptime_s: 29400                                                                 
+Uptime_m: 490                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =490                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 29700565                                                             
+Uptime_s: 29700                                                                 
+Uptime_m: 495                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =495                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 30000565                                                             
+Uptime_s: 30000                                                                 
+Uptime_m: 500                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =500                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 30300565                                                             
+Uptime_s: 30300                                                                 
+Uptime_m: 505                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =505                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 30600565                                                             
+Uptime_s: 30600                                                                 
+Uptime_m: 510                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =510                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 30900565                                                             
+Uptime_s: 30900                                                                 
+Uptime_m: 515                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =515                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 31200565                                                             
+Uptime_s: 31200                                                                 
+Uptime_m: 520                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =520                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 31500565                                                             
+Uptime_s: 31500                                                                 
+Uptime_m: 525                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =525                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 31800565                                                             
+Uptime_s: 31800                                                                 
+Uptime_m: 530                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =530                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 32100565                                                             
+Uptime_s: 32100                                                                 
+Uptime_m: 535                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =535                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 32400565                                                             
+Uptime_s: 32400                                                                 
+Uptime_m: 540                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =540                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 32700565                                                             
+Uptime_s: 32700                                                                 
+Uptime_m: 545                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =545                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 33000565                                                             
+Uptime_s: 33000                                                                 
+Uptime_m: 550                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =550                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 33300565                                                             
+Uptime_s: 33300                                                                 
+Uptime_m: 555                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =555                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 33600565                                                             
+Uptime_s: 33600                                                                 
+Uptime_m: 560                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =560                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 33900565                                                             
+Uptime_s: 33900                                                                 
+Uptime_m: 565                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =565                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 34200565                                                             
+Uptime_s: 34200                                                                 
+Uptime_m: 570                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =570                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 34500565                                                             
+Uptime_s: 34500                                                                 
+Uptime_m: 575                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =575                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 34800565                                                             
+Uptime_s: 34800                                                                 
+Uptime_m: 580                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =580                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 35100565                                                             
+Uptime_s: 35100                                                                 
+Uptime_m: 585                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =585                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 35400565                                                             
+Uptime_s: 35400                                                                 
+Uptime_m: 590                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =590                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 35700565                                                             
+Uptime_s: 35700                                                                 
+Uptime_m: 595                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =595                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 36000565                                                             
+Uptime_s: 36000                                                                 
+Uptime_m: 600                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =600                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 36300565                                                             
+Uptime_s: 36300                                                                 
+Uptime_m: 605                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =605                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 36600565                                                             
+Uptime_s: 36600                                                                 
+Uptime_m: 610                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =610                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 36900565                                                             
+Uptime_s: 36900                                                                 
+Uptime_m: 615                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =615                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 37200565                                                             
+Uptime_s: 37200                                                                 
+Uptime_m: 620                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =620                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 37500565                                                             
+Uptime_s: 37500                                                                 
+Uptime_m: 625                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =625                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 37800565                                                             
+Uptime_s: 37800                                                                 
+Uptime_m: 630                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =630                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 38100565                                                             
+Uptime_s: 38100                                                                 
+Uptime_m: 635                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =635                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 38400565                                                             
+Uptime_s: 38400                                                                 
+Uptime_m: 640                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =640                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 38700565                                                             
+Uptime_s: 38700                                                                 
+Uptime_m: 645                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =645                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 39000565                                                             
+Uptime_s: 39000                                                                 
+Uptime_m: 650                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =650                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 39300565                                                             
+Uptime_s: 39300                                                                 
+Uptime_m: 655                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =655                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 39600565                                                             
+Uptime_s: 39600                                                                 
+Uptime_m: 660                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =660                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 39900565                                                             
+Uptime_s: 39900                                                                 
+Uptime_m: 665                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =665                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 40200565                                                             
+Uptime_s: 40200                                                                 
+Uptime_m: 670                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =670                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 40500565                                                             
+Uptime_s: 40500                                                                 
+Uptime_m: 675                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =675                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 40800565                                                             
+Uptime_s: 40800                                                                 
+Uptime_m: 680                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =680                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 41100565                                                             
+Uptime_s: 41100                                                                 
+Uptime_m: 685                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =685                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 41400565                                                             
+Uptime_s: 41400                                                                 
+Uptime_m: 690                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =690                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 41700565                                                             
+Uptime_s: 41700                                                                 
+Uptime_m: 695                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =695                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 42000565                                                             
+Uptime_s: 42000                                                                 
+Uptime_m: 700                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =700                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 42300565                                                             
+Uptime_s: 42300                                                                 
+Uptime_m: 705                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =705                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 42600565                                                             
+Uptime_s: 42600                                                                 
+Uptime_m: 710                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =710                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 42900565                                                             
+Uptime_s: 42900                                                                 
+Uptime_m: 715                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =715                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 43200565                                                             
+Uptime_s: 43200                                                                 
+Uptime_m: 720                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =720                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 43500565                                                             
+Uptime_s: 43500                                                                 
+Uptime_m: 725                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =725                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 43800565                                                             
+Uptime_s: 43800                                                                 
+Uptime_m: 730                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =730                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 44100565                                                             
+Uptime_s: 44100                                                                 
+Uptime_m: 735                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =735                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 44400565                                                             
+Uptime_s: 44400                                                                 
+Uptime_m: 740                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =740                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 44700565                                                             
+Uptime_s: 44700                                                                 
+Uptime_m: 745                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =745                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 45000565                                                             
+Uptime_s: 45000                                                                 
+Uptime_m: 750                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =750                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 45300565                                                             
+Uptime_s: 45300                                                                 
+Uptime_m: 755                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =755                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 45600565                                                             
+Uptime_s: 45600                                                                 
+Uptime_m: 760                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =760                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 45900565                                                             
+Uptime_s: 45900                                                                 
+Uptime_m: 765                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =765                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 46200565                                                             
+Uptime_s: 46200                                                                 
+Uptime_m: 770                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =770                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 46500565                                                             
+Uptime_s: 46500                                                                 
+Uptime_m: 775                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =775                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 46800565                                                             
+Uptime_s: 46800                                                                 
+Uptime_m: 780                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =780                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 47100565                                                             
+Uptime_s: 47100                                                                 
+Uptime_m: 785                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =785                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 47400565                                                             
+Uptime_s: 47400                                                                 
+Uptime_m: 790                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =790                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 47700565                                                             
+Uptime_s: 47700                                                                 
+Uptime_m: 795                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =795                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 48000565                                                             
+Uptime_s: 48000                                                                 
+Uptime_m: 800                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =800                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 48300565                                                             
+Uptime_s: 48300                                                                 
+Uptime_m: 805                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =805                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 48600565                                                             
+Uptime_s: 48600                                                                 
+Uptime_m: 810                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =810                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 48900565                                                             
+Uptime_s: 48900                                                                 
+Uptime_m: 815                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =815                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 49200565                                                             
+Uptime_s: 49200                                                                 
+Uptime_m: 820                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =820                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 49500565                                                             
+Uptime_s: 49500                                                                 
+Uptime_m: 825                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =825                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 49800565                                                             
+Uptime_s: 49800                                                                 
+Uptime_m: 830                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =830                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 50100565                                                             
+Uptime_s: 50100                                                                 
+Uptime_m: 835                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =835                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 50400565                                                             
+Uptime_s: 50400                                                                 
+Uptime_m: 840                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =840                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 50700565                                                             
+Uptime_s: 50700                                                                 
+Uptime_m: 845                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =845                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 51000565                                                             
+Uptime_s: 51000                                                                 
+Uptime_m: 850                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =850                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 51300565                                                             
+Uptime_s: 51300                                                                 
+Uptime_m: 855                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =855                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 51600565                                                             
+Uptime_s: 51600                                                                 
+Uptime_m: 860                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =860                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 51900565                                                             
+Uptime_s: 51900                                                                 
+Uptime_m: 865                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =865                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 52200565                                                             
+Uptime_s: 52200                                                                 
+Uptime_m: 870                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =870                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 52500565                                                             
+Uptime_s: 52500                                                                 
+Uptime_m: 875                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =875                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 52800565                                                             
+Uptime_s: 52800                                                                 
+Uptime_m: 880                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =880                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 53100565                                                             
+Uptime_s: 53100                                                                 
+Uptime_m: 885                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =885                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 53400565                                                             
+Uptime_s: 53400                                                                 
+Uptime_m: 890                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =890                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 53700565                                                             
+Uptime_s: 53700                                                                 
+Uptime_m: 895                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =895                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 54000565                                                             
+Uptime_s: 54000                                                                 
+Uptime_m: 900                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =900                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 54300565                                                             
+Uptime_s: 54300                                                                 
+Uptime_m: 905                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =905                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 54600565                                                             
+Uptime_s: 54600                                                                 
+Uptime_m: 910                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =910                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 54900565                                                             
+Uptime_s: 54900                                                                 
+Uptime_m: 915                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =915                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 55200565                                                             
+Uptime_s: 55200                                                                 
+Uptime_m: 920                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =920                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 55500565                                                             
+Uptime_s: 55500                                                                 
+Uptime_m: 925                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =925                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 55800565                                                             
+Uptime_s: 55800                                                                 
+Uptime_m: 930                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =930                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 56100565                                                             
+Uptime_s: 56100                                                                 
+Uptime_m: 935                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =935                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 56400565                                                             
+Uptime_s: 56400                                                                 
+Uptime_m: 940                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =940                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 56700565                                                             
+Uptime_s: 56700                                                                 
+Uptime_m: 945                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =945                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 57000565                                                             
+Uptime_s: 57000                                                                 
+Uptime_m: 950                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =950                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 57300565                                                             
+Uptime_s: 57300                                                                 
+Uptime_m: 955                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =955                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 57600565                                                             
+Uptime_s: 57600                                                                 
+Uptime_m: 960                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =960                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 57900565                                                             
+Uptime_s: 57900                                                                 
+Uptime_m: 965                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =965                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 58200565                                                             
+Uptime_s: 58200                                                                 
+Uptime_m: 970                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =970                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 58500565                                                             
+Uptime_s: 58500                                                                 
+Uptime_m: 975                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =975                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 58800565                                                             
+Uptime_s: 58800                                                                 
+Uptime_m: 980                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =980                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 59100565                                                             
+Uptime_s: 59100                                                                 
+Uptime_m: 985                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =985                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 59400565                                                             
+Uptime_s: 59400                                                                 
+Uptime_m: 990                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =990                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 59700565                                                             
+Uptime_s: 59700                                                                 
+Uptime_m: 995                                                                   
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =995                                               
+up_time_store_timer_handler called                                              
+Uptime_ms: 60000565                                                             
+Uptime_s: 60000                                                                 
+Uptime_m: 1000                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1000                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 60300565                                                             
+Uptime_s: 60300                                                                 
+Uptime_m: 1005                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1005                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 60600565                                                             
+Uptime_s: 60600                                                                 
+Uptime_m: 1010                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1010                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 60900565                                                             
+Uptime_s: 60900                                                                 
+Uptime_m: 1015                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1015                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 61200565                                                             
+Uptime_s: 61200                                                                 
+Uptime_m: 1020                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1020                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 61500565                                                             
+Uptime_s: 61500                                                                 
+Uptime_m: 1025                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1025                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 61800565                                                             
+Uptime_s: 61800                                                                 
+Uptime_m: 1030                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1030                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 62100565                                                             
+Uptime_s: 62100                                                                 
+Uptime_m: 1035                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1035                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 62400565                                                             
+Uptime_s: 62400                                                                 
+Uptime_m: 1040                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1040                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 62700565                                                             
+Uptime_s: 62700                                                                 
+Uptime_m: 1045                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1045                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 63000565                                                             
+Uptime_s: 63000                                                                 
+Uptime_m: 1050                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1050                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 63300565                                                             
+Uptime_s: 63300                                                                 
+Uptime_m: 1055                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1055                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 63600565                                                             
+Uptime_s: 63600                                                                 
+Uptime_m: 1060                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1060                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 63900565                                                             
+Uptime_s: 63900                                                                 
+Uptime_m: 1065                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1065                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 64200565                                                             
+Uptime_s: 64200                                                                 
+Uptime_m: 1070                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1070                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 64500565                                                             
+Uptime_s: 64500                                                                 
+Uptime_m: 1075                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1075                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 64800565                                                             
+Uptime_s: 64800                                                                 
+Uptime_m: 1080                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1080                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 65100565                                                             
+Uptime_s: 65100                                                                 
+Uptime_m: 1085                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1085                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 65400565                                                             
+Uptime_s: 65400                                                                 
+Uptime_m: 1090                                                                  
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =1090                                              
+up_time_store_timer_handler called                                              
+Uptime_ms: 65700565                                                             
+Uptime_s: 164                                                                   
+Uptime_m: 2                                                                     
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =2                                                 
+up_time_store_timer_handler called                                              
+Uptime_ms: 66000565                                                             
+Uptime_s: 464                                                                   
+Uptime_m: 7                                                                     
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =7                                                 
+up_time_store_timer_handler called                                              
+Uptime_ms: 66300565                                                             
+Uptime_s: 764                                                                   
+Uptime_m: 12                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =12                                                
+Button Pressed!                                                                 
+Uptime_ms: 66461010                                                             
+Uptime_s: 925                                                                   
+uptime_m_priv=0                                                                 
+Uptime_m: 15, f                                                                 
+upcount_bufer[8]=0                                                              
+uptime_m - upcount_bufer[temp]=15                                               
+upcount_bufer[8-1]=221                                                          
+uptime_m - upcount_bufer[temp]=-206                                             
+same uptime_m found no need to store                                            
+ retunr                                                                         
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+Button Pressed!                                                                 
+Uptime_ms: 66525543                                                             
+Uptime_s: 989                                                                   
+uptime_m_priv=0                                                                 
+Uptime_m: 16, 10                                                                
+upcount_bufer[8]=0                                                              
+uptime_m - upcount_bufer[temp]=16                                               
+upcount_bufer[8-1]=221                                                          
+uptime_m - upcount_bufer[temp]=-205                                             
+same uptime_m found no need to store                                            
+ retunr                                                                         
+Extended adv data set                                                           
+Extended advertising started                                                    
+extendede adv stoped                                                            
+up_time_store_timer_handler called                                              
+Uptime_ms: 66600565                                                             
+Uptime_s: 1064                                                                  
+Uptime_m: 17                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =17                                                
+up_time_store_timer_handler called                                              
+Uptime_ms: 66900565                                                             
+Uptime_s: 1364                                                                  
+Uptime_m: 22                                                                    
+uptime store success fulle                                                      
+data read uptime_m_priv_temp =22                                                
+
+
+
